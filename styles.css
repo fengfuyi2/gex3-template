@@ -205,6 +205,10 @@ header h1 {
   transition: none;
 }
 
+.btn-primary:active {
+  background-color: #0d3b23 !important;
+}
+
 .d-grid {
   display: flex;
   justify-content: center;
